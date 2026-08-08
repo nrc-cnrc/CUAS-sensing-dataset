@@ -1,0 +1,35 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it as below."
+type: dataset
+title: "UAV vs. Bird Radar Tracks Dataset"
+authors:
+  - family-names: Mehta
+    given-names: Varun
+    affiliation: "University of Ottawa"
+  - family-names: Bolic
+    given-names: Miodrag
+    affiliation: "University of Ottawa"
+  - family-names: Mantegh
+    given-names: Iraj
+    affiliation: "National Research Council Canada"
+  - family-names: Vidal
+    given-names: Charles
+    affiliation: "National Research Council Canada"
+abstract: >-
+  Real-world radar tracks of small UAVs (DJI Phantom 2, Phantom 4, Inspire,
+  Mavic), birds, humans, and ground vehicles, collected with the Echodyne
+  EchoGuard (MESA) radar at 10 Hz during eight field trials in Quebec, Canada
+  (October 2019 - March 2021). Includes 1,117 expert-labeled tracks with 3D
+  position, 3D velocity, azimuth/elevation/range, and RCS, plus full raw radar
+  session logs.
+keywords:
+  - radar
+  - UAV
+  - drone
+  - bird
+  - counter-UAS
+  - target classification
+  - tracking
+  - dataset
+version: "1.0.0"
+date-released: "2026-08-08"

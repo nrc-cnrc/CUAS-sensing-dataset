@@ -1,0 +1,82 @@
+folder,file,format,size_mb,rows,n_labeled_tracks
+Demo-0,tracks_2019-10-11T134524-R1.xlsx,"xlsx (annotated, 11-col)",0.61,4495,11
+Demo-0,tracks_2019-10-11T135549-R1.xlsx,"xlsx (annotated, 11-col)",0.22,1600,1
+Demo-0,tracks_2019-10-11T135549-R2.xlsx,"xlsx (annotated, 11-col)",0.15,3112,1
+Demo-0,tracks_2019-10-11T141104-R1.xlsx,"xlsx (annotated, 11-col)",0.59,4561,3
+Demo-0,tracks_2019-10-11T141819-R1.xlsx,"xlsx (annotated, 11-col)",0.86,7203,1
+Demo-0,tracks_2019-10-11T141819-R2.xlsx,"xlsx (annotated, 11-col)",0.67,7325,41
+Demo-0,tracks_2019-10-11T143819-R1.xlsx,"xlsx (annotated, 11-col)",0.11,674,1
+Demo-0,tracks_2019-10-11T143819-R2.xlsx,"xlsx (annotated, 11-col)",0.11,1153,2
+Demo-0,tracks_2019-10-11T145007-R1.xlsx,"xlsx (annotated, 11-col)",1.02,7922,21
+Demo-0,tracks_2019-10-11T145007-R2.xlsx,"xlsx (annotated, 11-col)",1.01,7351,14
+Demo-0,tracks_2019-10-11T154035-R1.xlsx,"xlsx (annotated, 11-col)",0.06,1393,3
+Demo-0,tracks_2019-10-11T154331-R1.xlsx,"xlsx (annotated, 11-col)",1.26,11701,97
+Demo-0,tracks_2019-10-11T162212-R1.xlsx,"xlsx (annotated, 11-col)",0.66,5704,14
+Demo-0,tracks_2019-10-11T163253-R1.xlsx,"xlsx (annotated, 11-col)",0.48,3897,9
+Demo-0,tracks_2019-10-11T164200-R1.xlsx,"xlsx (annotated, 11-col)",0.89,9252,35
+Demo-0,tracks_2019-10-11T194744-R1.xlsx,"xlsx (annotated, 11-col)",1.08,8052,27
+Demo-0,tracks_2019-10-12T133124-R1.xlsx,"xlsx (annotated, 11-col)",1.55,10886,16
+Demo-0,tracks_2019-10-12T135253-R1.xlsx,"xlsx (annotated, 11-col)",0.94,6938,9
+Demo-0,tracks_2019-10-12T145254-R1.xlsx,"xlsx (annotated, 11-col)",0.48,3552,9
+Demo-0,tracks_2019-10-12T150347-R1.xlsx,"xlsx (annotated, 11-col)",1.66,12822,23
+Demo-0,tracks_2019-10-12T153151-R1.xlsx,"xlsx (annotated, 11-col)",0.69,5182,21
+Demo-0,tracks_2019-10-12T154641-R1.xlsx,"xlsx (annotated, 11-col)",0.13,888,3
+Demo-0,tracks_2019-10-12T155755-R1.xlsx,"xlsx (annotated, 11-col)",0.48,4055,16
+Demo-0,tracks_2019-10-12T161431-R1.xlsx,"xlsx (annotated, 11-col)",0.83,6957,18
+Demo-0,tracks_2019-10-13T135100-R1.xlsx,"xlsx (annotated, 11-col)",1.65,16898,90
+Demo-0,tracks_2019-10-13T143335-R2.xlsx,"xlsx (annotated, 11-col)",0.2,1811,10
+Demo-0,tracks_2019-10-13T144301-R2.xlsx,"xlsx (annotated, 11-col)",2.38,29488,94
+Demo-0,tracks_2019-10-13T152655-R2.xlsx,"xlsx (annotated, 11-col)",5.32,77374,346
+Demo-0,tracks_2019-10-13T173503-R2.xlsx,"xlsx (annotated, 11-col)",0.71,5316,10
+Demo-1,DRONE_Id_06.csv,"csv (raw log, ';'-delim)",1.29,4721,1
+Demo-1,DRONE_Id_688.csv,"csv (raw log, ';'-delim)",1.79,6298,1
+Demo-2,Echodyne_Log_20201119_151809.xlsx,"xlsx (annotated, 11-col)",3.5,33878,9
+Demo-2,Echodyne_Log_20201119_155045.xlsx,"xlsx (annotated, 11-col)",2.07,20111,12
+Demo-3,Echodyne_Log_20201218_111149.xlsx,"xlsx (annotated, 11-col)",1.03,10559,2
+Demo-3,Echodyne_Log_20201218_112525.xlsx,"xlsx (annotated, 11-col)",5.58,56240,6
+Demo-3,Echodyne_Log_20201218_145654.xlsx,"xlsx (annotated, 11-col)",2.07,20483,4
+Demo-3,Echodyne_Log_20201218_150833.xlsx,"xlsx (annotated, 11-col)",6.44,63982,11
+Demo-4,Echodyne_Log_20210226_111823.csv.gz,"csv.gz (raw log, ','-delim)",7.29,96714,0
+Demo-4,Echodyne_Log_20210226_111823_UAV_1073.csv,"csv (raw log, ','-delim)",1.2,3552,1
+Demo-4,Echodyne_Log_20210226_111823_UAV_108.csv,"csv (raw log, ','-delim)",1.38,4247,1
+Demo-4,Echodyne_Log_20210226_121014.csv.gz,"csv.gz (raw log, ','-delim)",31.3,502940,0
+Demo-4,Echodyne_Log_20210226_121014_TRUCK_1259.csv,"csv (raw log, ','-delim)",1.05,3068,3
+Demo-4,Echodyne_Log_20210226_121014_UAV_1371.csv,"csv (raw log, ','-delim)",7.35,21079,1
+Demo-4,Echodyne_Log_20210226_121014_UAV_1437.csv,"csv (raw log, ','-delim)",2.34,6782,1
+Demo-4,Echodyne_Log_20210226_121014_UAV_661.csv,"csv (raw log, ','-delim)",1.21,3593,1
+Demo-4,Echodyne_Log_20210226_142133.csv.gz,"csv.gz (raw log, ','-delim)",42.32,672104,0
+Demo-4,Echodyne_Log_20210226_142133_UAV_3787.csv,"csv (raw log, ','-delim)",1.8,5161,1
+Demo-4,Echodyne_Log_20210226_142133_UAV_4427.csv,"csv (raw log, ','-delim)",1.47,4239,1
+Demo-5,Echodyne_Log_20210310_102553.xlsx,"xlsx (annotated, 11-col)",0.11,907,1
+Demo-5,Echodyne_Log_20210310_150225.xlsx,"xlsx (annotated, 11-col)",0.7,6983,3
+Demo-6,Echodyne_Log_20210318_100525.xlsx,"xlsx (annotated, 11-col)",2.64,24628,2
+Demo-6,Echodyne_Log_20210318_101400.xlsx,"xlsx (annotated, 11-col)",0.05,406,2
+Demo-6,Echodyne_Log_20210318_101649.xlsx,"xlsx (annotated, 11-col)",0.13,1157,1
+Demo-6,Echodyne_Log_20210318_101845.xlsx,"xlsx (annotated, 11-col)",0.29,2640,1
+Demo-6,Echodyne_Log_20210318_102244.xlsx,"xlsx (annotated, 11-col)",0.04,269,1
+Demo-6,Echodyne_Log_20210318_102509.xlsx,"xlsx (annotated, 11-col)",1.01,9794,2
+Demo-6,Echodyne_Log_20210318_104500.xlsx,"xlsx (annotated, 11-col)",0.23,2318,13
+Demo-6,Echodyne_Log_20210318_104931.xlsx,"xlsx (annotated, 11-col)",0.29,2618,11
+Demo-6,Echodyne_Log_20210318_105543.xlsx,"xlsx (annotated, 11-col)",3.71,34916,26
+Demo-6,Echodyne_Log_20210318_120554.xlsx,"xlsx (annotated, 11-col)",3.4,28654,29
+Demo-7,DRONE_Id_06.csv,"csv (raw log, ';'-delim)",1.29,4721,1
+Demo-7,DRONE_Id_688.csv,"csv (raw log, ';'-delim)",1.79,6298,1
+Demo-7,Echodyne_Log_20201218_112525_UAV_189.csv,"csv (raw log, ','-delim)",1.5,4608,1
+Demo-7,Echodyne_Log_20201218_112525_UAV_59.csv,"csv (raw log, ','-delim)",2.67,8218,1
+Demo-7,Echodyne_Log_20201218_123830_UAV_347.csv,"csv (raw log, ','-delim)",1.21,3739,1
+Demo-7,Echodyne_Log_20210226_111823_UAV_1073.csv,"csv (raw log, ','-delim)",1.2,3552,1
+Demo-7,Echodyne_Log_20210226_111823_UAV_108.csv,"csv (raw log, ','-delim)",1.38,4247,1
+Demo-7,Echodyne_Log_20210226_121014_UAV_1371.csv,"csv (raw log, ','-delim)",7.35,21079,1
+Demo-7,Echodyne_Log_20210226_121014_UAV_1437.csv,"csv (raw log, ','-delim)",2.34,6782,1
+Demo-7,Echodyne_Log_20210226_121014_UAV_661.csv,"csv (raw log, ','-delim)",1.21,3593,1
+Demo-7,Echodyne_Log_20210226_142133_UAV_3787.csv,"csv (raw log, ','-delim)",1.8,5161,1
+Demo-7,Echodyne_Log_20210226_142133_UAV_4427.csv,"csv (raw log, ','-delim)",1.47,4239,1
+Demo-7,Echodyne_Log_20210310_102918_UAV_131.csv,"csv (raw log, ','-delim)",2.32,6814,1
+Demo-7,Echodyne_Log_20210310_110210_UAV_2846.csv,"csv (raw log, ','-delim)",1.25,3858,1
+Demo-7,Echodyne_Log_20210310_110210_UAV_3022.csv,"csv (raw log, ','-delim)",1.19,3576,1
+Demo-7,Echodyne_Log_20210310_152451_UAV_856.csv,"csv (raw log, ','-delim)",1.96,5870,1
+Demo-7,Echodyne_Log_20210310_152451_UAV_871.csv,"csv (raw log, ','-delim)",1.16,3549,1
+Demo-7,Echodyne_Log_20210318_102509_UAV_1.csv,"csv (raw log, ','-delim)",1.69,5416,1
+Demo-7,Echodyne_Log_20210318_105543_UAV_196.csv,"csv (raw log, ','-delim)",1.68,5235,3
+Demo-7,Echodyne_Log_20210318_105543_UAV_95.csv,"csv (raw log, ','-delim)",1.38,4279,1
+Demo-7,Echodyne_Log_20210318_120554_UAV_138.csv,"csv (raw log, ','-delim)",1.63,4970,1

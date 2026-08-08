@@ -1,0 +1,4 @@
+# Keep line endings of data files exactly as recorded
+*.csv -text
+*.csv.gz binary
+*.xlsx binary
