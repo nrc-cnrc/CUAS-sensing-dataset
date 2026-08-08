@@ -144,9 +144,9 @@ is in preparation; this section will be updated with the reference once publishe
 
 ## Contributors
 
-- **Varun Mehta**, **Miodrag Bolic** — School of Electrical Engineering and Computer
-  Science, University of Ottawa
-- **Iraj Mantegh**, **Charles Vidal** — National Research Council Canada (NRC)
+- **Varun Mehta**, **Iraj Mantegh**, **Charles Vidal** — National Research Council Canada (NRC)
+- **Miodrag Bolic** — School of Electrical Engineering and Computer Science,
+  University of Ottawa
 
 Data collection was carried out by the National Research Council Canada and
 the University of Ottawa during counter-UAS field trials in Quebec, Canada.
