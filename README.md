@@ -125,9 +125,11 @@ that reconstructs and plots individual 3D trajectories.
 
 ## License
 
-**To be confirmed.** The license for public release is pending final
-confirmation by the National Research Council Canada. Until a license file is
-added to this repository, please contact the authors before reusing the data.
+This dataset is released under the
+[Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/)
+license — see [`LICENSE`](LICENSE). You are free to share and adapt the data
+for any purpose, including commercially, provided you give appropriate credit
+(see [Citation](#citation)).
 
 ## Citation
 
