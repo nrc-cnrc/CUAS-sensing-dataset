@@ -148,8 +148,7 @@ is in preparation; this section will be updated with the reference once publishe
 - **Miodrag Bolic** — School of Electrical Engineering and Computer Science,
   University of Ottawa
 
-Data collection was carried out by the National Research Council Canada and
-the University of Ottawa during counter-UAS field trials in Quebec, Canada.
+Data collection was carried out by the National Research Council Canada during counter-UAS field trials in Quebec, Canada.
 
 ## Contact
 
