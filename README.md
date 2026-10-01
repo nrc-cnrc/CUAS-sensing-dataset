@@ -123,11 +123,15 @@ that reconstructs and plots individual 3D trajectories.
   meters, relative to the radar; `posX/posY/posZ` in meters and
   `veloX/veloY/veloZ` in m/s in the radar's local Cartesian frame; `rcs` in dBsm.
 
+## Copyright
+
+© 2026 National Research Council of Canada — Conseil national de recherches du Canada
+
 ## License
 
 This dataset is released under the
 [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/)
-license — see [`LICENSE`](LICENSE).Use and distribution of this dataset are further subject to the applicable rules, policies, and guidelines of the National Research Council Canada.
+license — see [`LICENSE`](LICENSE).
 
 ## Citation
 
