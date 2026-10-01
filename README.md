@@ -125,7 +125,8 @@ that reconstructs and plots individual 3D trajectories.
 
 ## Copyright
 
-© 2026 National Research Council of Canada — Conseil national de recherches du Canada
+© His Majesty the King in Right of Canada — National Research Council of Canada, 2026 \
+© Sa Majesté le Roi du chef du Canada — Conseil national de recherches du Canada, 2026
 
 ## License
 
