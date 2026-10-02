@@ -123,11 +123,16 @@ that reconstructs and plots individual 3D trajectories.
   meters, relative to the radar; `posX/posY/posZ` in meters and
   `veloX/veloY/veloZ` in m/s in the radar's local Cartesian frame; `rcs` in dBsm.
 
+## Copyright
+
+© His Majesty the King in Right of Canada, as represented by the National Research Council of Canada, 2026 \
+© Sa Majesté le Roi du chef du Canada, représenté par le Conseil national de recherches du Canada, 2026
+
 ## License
 
 This dataset is released under the
 [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/)
-license — see [`LICENSE`](LICENSE).Use and distribution of this dataset are further subject to the applicable rules, policies, and guidelines of the National Research Council Canada.
+license — see [`LICENSE`](LICENSE).
 
 ## Citation
 
@@ -150,5 +155,5 @@ Data collection was carried out by the National Research Council Canada during c
 
 ## Contact
 
-For questions about the dataset, please open a GitHub issue or contact the
+For questions about the dataset, please open a GitHub [issue](https://github.com/nrc-cnrc/CUAS-sensing-dataset/issues) or contact the
 contributors listed above.
