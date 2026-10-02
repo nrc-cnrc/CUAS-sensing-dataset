@@ -155,5 +155,5 @@ Data collection was carried out by the National Research Council Canada during c
 
 ## Contact
 
-For questions about the dataset, please open a GitHub issue or contact the
+For questions about the dataset, please open a GitHub [issue](https://github.com/nrc-cnrc/CUAS-sensing-dataset/issues) or contact the
 contributors listed above.
